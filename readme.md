@@ -1,4 +1,4 @@
-![Project](https://i.ibb.co/jht6SB7/Grupo-11.png)
+<cemter> ![Project](https://i.ibb.co/jht6SB7/Grupo-11.png) </center>
 
 ## About
 Project developed in the OmniStack 6.0 week at Rocketseat.
